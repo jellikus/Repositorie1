@@ -1,24 +1,15 @@
 @charset "UTF-8";
 
 h2 {
-font-family:'Kumar One Outline', cursive;
-color:#00FFDE;
-font-size: 30px;
-font-style: ;
-font-weight:inherit;
+  font-family: "Kumar One Outline", cursive;
+  color: #00ffde;
+  font-size: 30px;
+  font-style: ;
+  font-weight: inherit;
 
+  border: 1px solid white;
+  margin: 35px 1550px 20px 15px;
+  padding: 10px 100px 0px 25px;
 
-border: 1px solid white;
-margin: 35px 1550px 20px 15px;
-padding: 10px 100px 0px 25px;
-
-background-color: ;
-}
-
-p{
-  text-align: justify;
-}
-
-td{
-  border
+  background-color: ;
 }
