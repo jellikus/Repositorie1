@@ -1,33 +1,24 @@
 @charset "UTF-8";
 
-body {
-  font-family: "Kumar One Outline", cursive;
-  color: #00ffde;
-  font-size: 30px;
-  font-style: italic;
-  font-weight: inherit;
+h2 {
+font-family:'Kumar One Outline', cursive;
+color:#00FFDE;
+font-size: 30px;
+font-style: ;
+font-weight:inherit;
 
-  border: 1px solid white;
-  margin: 35px 1550px 20px 15px;
-  padding: 10px 100px 0px 25px;
 
-  background-color: red;
+border: 1px solid white;
+margin: 35px 1550px 20px 15px;
+padding: 10px 100px 0px 25px;
+
+background-color: ;
 }
 
-h1 {
-  font-family: "Kumar One Outline", cursive;
-  color: rgb(255, 0, 115);
-  font-size: 30px;
-  font-style: italic;
-  font-weight: inherit;
-
-  border: 1px solid white;
-  margin: 35px 1550px 20px 15px;
-  padding: 10px 100px 0px 25px;
-
-  background-color: red;
-}
-
-p {
+p{
   text-align: justify;
+}
+
+td{
+  border
 }
